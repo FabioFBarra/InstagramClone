@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\204054947\\Desktop\\Fabio\\InstagramClone-Didatic\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\204054947\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\e4e117138d38866c3ae08988428efac6\\res\\values-hdpi\\values-hdpi.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "297",
+                        "endLines": "8",
+                        "endColumns": "13",
+                        "endOffsets": "567"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "325"
+                    }
+                }
+            ]
+        }
+    ]
+}
