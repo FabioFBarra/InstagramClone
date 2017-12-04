@@ -1,0 +1,4 @@
+#Mon Dec 04 12:16:52 BRST 2017
+base.0=C\:\\Users\\204054947\\Desktop\\Fabio\\InstagramClone-Didatic\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
